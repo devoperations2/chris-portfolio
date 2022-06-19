@@ -1064,3 +1064,6 @@ nav {
     font-size: 1.4rem;
   }
 }
+.card-img-container img {
+  width: 300px;
+}
